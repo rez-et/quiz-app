@@ -10,7 +10,6 @@ export default function QuizHeader({
   return (
     <header className="quiz-header">
       <div className="quiz-header-brand">
-        <span className="quiz-header-icon" aria-hidden="true">⚡</span>
         <h1 className="quiz-header-title">{title}</h1>
       </div>
 
