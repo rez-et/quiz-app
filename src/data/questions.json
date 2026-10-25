@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "When did JavaScript first appear?",
+    "options": ["1998", "1997", "1995", "1999"],
+    "correctAnswer": "1995"
+  },
+  {
+    "id": 2,
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "HyperTransfer Markup Language",
+      "HyperText Markdown Language"
+    ],
+    "correctAnswer": "HyperText Markup Language"
+  },
+  {
+    "id": 3,
+    "question": "Which CSS property is used to control the spacing between an element's border and its content?",
+    "options": ["margin", "padding", "border-spacing", "gap"],
+    "correctAnswer": "padding"
+  },
+  {
+    "id": 4,
+    "question": "Which React hook is used to manage state in a functional component?",
+    "options": ["useEffect", "useContext", "useState", "useReducer"],
+    "correctAnswer": "useState"
+  },
+  {
+    "id": 5,
+    "question": "What is the default display value of a <div> element in CSS?",
+    "options": ["inline", "inline-block", "flex", "block"],
+    "correctAnswer": "block"
+  },
+  {
+    "id": 6,
+    "question": "Which JavaScript method is used to add one or more elements to the end of an array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "correctAnswer": "push()"
+  },
+  {
+    "id": 7,
+    "question": "What does the strict equality operator (===) compare in JavaScript?",
+    "options": [
+      "Value only",
+      "Data type only",
+      "Both value and data type",
+      "Memory address only"
+    ],
+    "correctAnswer": "Both value and data type"
+  },
+  {
+    "id": 8,
+    "question": "Which HTML tag is used to define an internal stylesheet?",
+    "options": ["<css>", "<script>", "<style>", "<stylesheet>"],
+    "correctAnswer": "<style>"
+  },
+  {
+    "id": 9,
+    "question": "Which CSS property is used to create space around elements, outside of any defined borders?",
+    "options": ["padding", "margin", "outline", "spacing"],
+    "correctAnswer": "margin"
+  },
+  {
+    "id": 10,
+    "question": "In React, what mechanism is used to pass data from a parent component down to a child component?",
+    "options": ["props", "state", "context only", "DOM attributes"],
+    "correctAnswer": "props"
+  }
+]
